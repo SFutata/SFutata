@@ -1,8 +1,8 @@
-## ⭐ Welcome to my profile!! /Boas vindas ao meu perfil!! ⭐
+## 🔗 Welcome to my profile /Boas vindas ao meu perfil 🔗
 
-- 🦝💜 My name is SFutata / Meu nome é SFutata
-- 🗺️🌙 ENG/PT-BR + relearning JP / reaprendendo JP
-- 📚✨ Studying with Alura!!/ Estudando com a Alura !!
+-  High School student. / Estudante do ensino médio.
+-  ENG/PT-BR + relearning JP / reaprendendo JP
+-  Studying with Alura!!/ Estudando com a Alura !!
 - 📫🕸️ Contact me: @/00001215582183sp@al.educacao.sp.gov.br
 
 <!--
